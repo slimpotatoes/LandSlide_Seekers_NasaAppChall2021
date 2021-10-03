@@ -1,5 +1,5 @@
 # LandSlide_Seekers_NasaAppChall2021
 
-Scripts and data used for the Nasa App Challenge 2021. The whole code is not functional as the interfaces between the server, the data extraction and the app were not done. Each script can be run individually as examples.
+LandSlide_Seekers application interfacing with user
 
 Viktor, Ray, Shayan, Alex

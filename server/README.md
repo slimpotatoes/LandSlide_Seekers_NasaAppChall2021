@@ -1,5 +1,7 @@
 # LandSlide_Seekers_NasaAppChall2021
 
-Scripts and data used for the Nasa App Challenge 2021. The whole code is not functional as the interfaces between the server, the data extraction and the app were not done. Each script can be run individually as examples.
+Server module with the ML algorithms for classification and prediction. 
+
+The classification algorithm is trained for landslide detection and the prediction one needs to be trained with data from the extraction module
 
 Viktor, Ray, Shayan, Alex

@@ -1,5 +1,7 @@
 # LandSlide_Seekers_NasaAppChall2021
 
-Scripts and data used for the Nasa App Challenge 2021. The whole code is not functional as the interfaces between the server, the data extraction and the app were not done. Each script can be run individually as examples.
+Data extraction script
+
+Example to extract data from GPM_3IMERGHH_06 to get the precipitation locally (space-time)
 
 Viktor, Ray, Shayan, Alex
